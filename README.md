@@ -41,17 +41,20 @@ My strategy to solve this challenge was:
 # 4. Top 3 Data Insights
 
 **Hypothesis 01:**
+
 	- Imóveis que nunca passaram por reformas são em média 30% mais baratos.
 
 
 **True.**
 
 **Hypothesis 02:**
+	
 	- Imóveis com mais banheiros são em média 15% mais caros.
 
 **True.**
 
 **Hypothesis 03:**
+	
 	- Imóveis com data de construção inferior a 1955 são em média 50% mais baratos
 
 **False.**
