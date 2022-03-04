@@ -67,9 +67,9 @@ My strategy to solve this challenge was:
 
 # 7. Business Results
   - Ao fim de nosso projeto, podemos verificar cada uma das perguntas feitas inicialmente.
-  - 1 Quais recursos de uma casa mais impactam no preço? O recurso mais relevante para precificar a casa é o grade,sqft_living e Waterfront.
-  - 2 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças ? Para estes casos, deveria haver uma análise       mais profunda caso a caso.
-  - 3 Uma vez a casa em posse da empresa, quais são as melhores características para sua venda? Não existe uma época ideal de venda, muito mais importa a condição em que se encontra a casa.
+  - 1- Quais recursos de uma casa mais impactam no preço? O recurso mais relevante para precificar a casa é o grade,sqft_living e Waterfront.
+  - 2- A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças ? Para estes casos, deveria haver uma análise       mais profunda caso a caso.
+  - 3- Uma vez a casa em posse da empresa, quais são as melhores características para sua venda? Não existe uma época ideal de venda, muito mais importa a condição em que se encontra a casa.
 
 
 # 8. Conclusions
