@@ -21,6 +21,7 @@ My strategy to solve this challenge was:
 
 **Step 01. Data Description:**
 	- Etapa onde será analisada a existência de dados errôneos/faltantes, tipo de dados e 	  	 quantidade de informação para ser trabalhada.
+
 **Step 02. Feature Engineering:**
 	- Criação de novas features com base nos dados para possibilitar a análise mais direta 	possível, bem como a criação de hipóteses que podem ajudar a entender       mais sobre o 	problema e como resolvê-lo;
 
