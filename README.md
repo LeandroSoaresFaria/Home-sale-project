@@ -11,6 +11,7 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 	- 2 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças ?
 	- 3 Uma vez a casa em posse da empresa, quais são as melhores características para sua venda?
 
+
 # 2. Business Assumptions.
 	Seja qual for a metodologia utilizada, o objetivo deve ser atingido utilizando somente os 	dados fornecidos pela empresa.
 
