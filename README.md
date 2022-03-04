@@ -13,7 +13,7 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 
 
 # 2. Business Assumptions.
-	Seja qual for a metodologia utilizada, o objetivo deve ser atingido utilizando somente os 	dados fornecidos pela empresa.
+	Seja qual for a metodologia utilizada, o objetivo deve ser atingido utilizando somente os dados fornecidos pela empresa.
 
 # 3. Solution Strategy
 
