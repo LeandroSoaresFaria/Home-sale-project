@@ -13,6 +13,7 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 
 
 # 2. Business Assumptions.
+
 	Seja qual for a metodologia utilizada, o objetivo deve ser atingido utilizando somente os dados fornecidos pela empresa.
 
 # 3. Solution Strategy
@@ -20,23 +21,28 @@ A House Rocket é uma plataforma digital que tem como modelo de negócio, a comp
 My strategy to solve this challenge was:
 
 **Step 01. Data Description:**
+
 	- Etapa onde será analisada a existência de dados errôneos/faltantes, tipo de dados e quantidade de informação para ser trabalhada.
 
 **Step 02. Feature Engineering:**
-	- Criação de novas features com base nos dados para possibilitar a análise mais direta 	possível, bem como a criação de hipóteses que podem ajudar a entender       mais sobre o 	problema e como resolvê-lo;
+
+	- Criação de novas features com base nos dados para possibilitar a análise mais direta 	possível, bem como a criação de hipóteses que podem ajudar a 		  entender       mais sobre o 	problema e como resolvê-lo;
 
 
 **Step 03. Data Filtering:**
+	
 	- Remoção/substituição de valores não condizentes com o atributo selecionado.
 
 
 **Step 04. Exploratory Data Analysis:**
+	
 	- Análise dos dados, com foco na validação de hipóteses definidas no passo 2 e nas respostas 	de negócio demandadas pela contratante.
 
 **Step  05. Deploy Modelo to Production:**
+	
 	- Deploy do modelo para utilização de maneira fácil e intuitiva para usuários de áreas não técnicas.
   
-  O deploy do modelo final será feito através do web app https://hou-rocket.herokuapp.com/.
+  	O deploy do modelo final será feito através do web app https://hou-rocket.herokuapp.com/.
 
 # 4. Top 3 Data Insights
 
