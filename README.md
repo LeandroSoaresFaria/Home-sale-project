@@ -61,7 +61,7 @@ My strategy to solve this challenge was:
 
 **Hypothesis 03:**
 	
-	- Imóveis com data de construção inferior a 1955 são em média 50% mais baratos
+- Imóveis com data de construção inferior a 1955 são em média 50% mais baratos
 
 **False.**
 
@@ -77,10 +77,12 @@ My strategy to solve this challenge was:
 
 
 # 9. Lessons Learned
-	- Este projeto foi importante para análise de dados e para aprendizado de deploy utilizando o streamlit para montar o webapp.
+
+- Este projeto foi importante para análise de dados e para aprendizado de deploy utilizando o streamlit para montar o webapp.
 
 # 10. Next Steps to Improve
-	- Utilizar está análise em períodos maiores.
+
+- Utilizar está análise em períodos maiores.
 
 # LICENSE
 
